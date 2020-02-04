@@ -9,6 +9,8 @@ package com.mobicom;
  **/
 public class user {
 
+    /**   this is front end  **/
+
     private String name;
     private Integer id;
     private  String account;
