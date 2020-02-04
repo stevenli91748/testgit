@@ -12,8 +12,7 @@ public class user {
     private String name;
     private Integer id;
     private  String account;
-
-
+    private  string departmemt;
 
 
 }
